@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduinoespressif32-tinyusb",
+  "version": "b8d3c0c4a",
+  "description": "Arduino tinyusb",
+  "keywords": [
+    "framework",
+    "arduino",
+    "espressif",
+    "esp32"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReleaseBug/tinyusb"
+  }
+}
